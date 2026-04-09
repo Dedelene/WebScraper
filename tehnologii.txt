@@ -1,0 +1,342 @@
+Total tehnologii: 340
+
+Squarespace Commerce
+Squarespace
+YUI
+Modernizr
+core-js
+reCAPTCHA
+HSTS
+Webpack
+Module Federation
+WordPress
+MySQL
+PHP
+Astra
+WPForms
+Elementor
+Yoast SEO
+Apache HTTP Server
+Twitter Emoji (Twemoji)
+jQuery UI
+jQuery Migrate
+jQuery
+Priority Hints
+Google Font API
+RSS
+Open Graph
+Facebook Login
+Google Analytics
+Salesforce Commerce Cloud
+Cart Functionality
+Salesforce
+OneTrust
+Cloudflare Browser Insights
+Akamai Bot Manager
+TikTok Pixel
+Salesforce Interaction Studio
+New Relic
+Microsoft Advertising
+Medallia
+Lodash
+LazySizes
+Facebook Pixel
+Datadog
+Boomerang
+Attentive
+Akamai mPulse
+Adobe Experience Platform Launch
+Adobe Experience Platform Identity Service
+Adobe Analytics
+theTradeDesk
+Amazon Advertising
+Kaltura
+Cloudflare
+Akamai
+PWA
+HTTP/3
+Wix
+Sentry
+Google Cloud
+React
+Google Cloud CDN
+Nginx
+Swiper
+Font Awesome
+AngularJS
+Cloudflare Bot Management
+Cloudflare Turnstile
+Weebly
+Google Hosted Libraries
+Snowplow Analytics
+UIKit
+Plyr
+WooCommerce
+Contact Form 7
+WP Fastest Cache
+Yandex.Metrika
+WhatsApp Business Chat
+Adobe Experience Manager
+Java
+Google Tag Manager
+Kaira Vogue
+Polylang
+Chart.js
+WordPress Multisite
+lit-html
+lit-element
+Kinsta
+TypeScript
+Hello Elementor
+OWL Carousel
+Select2
+FullCalendar
+Google Maps
+Stimulus
+YouTube
+Amazon Web Services
+Amazon S3
+Plaid
+Colorlib Sparkling
+Bootstrap
+Node.js
+Ubuntu
+Vue.js
+Nuxt.js
+Divi
+RankMath SEO
+LiteSpeed
+Magento
+CivicTheme
+RequireJS
+Slick
+Moment.js
+GoCache
+Leaflet
+Redux Framework
+GSAP
+Slider Revolution
+Livefyre
+MailChimp
+Flywheel
+Webflow
+Google Ads
+Linkedin Ads
+jsDelivr
+Google Ads Conversion Tracking
+cdnjs
+Microsoft Clarity
+Linkedin Insight Tag
+Animate.css
+WPML
+CookieYes
+LottieFiles
+AMP
+Lightbox
+Isotope
+DigiCert
+wpBakery
+Jetpack
+Premio Chaty
+DreamWeaver
+Redux
+React Redux
+web-vitals
+Optimizely
+LaunchDarkly
+Cloudimage
+Twenty Twelve
+GeneratePress
+GenerateBlocks
+Handlebars
+UserWay
+libphonenumber
+PubSubJS
+Popper
+OceanWP
+Site Kit
+Tiny Slider
+Facebook Chat Plugin
+Cookie Notice
+Flickity
+anime.js
+Dropzone
+Bluehost
+Google Sign-in
+ZURB Foundation
+WP-PageNavi
+MonsterInsights
+Complianz
+Typekit
+ElementsKit
+Elementor Header & Footer Builder
+Moove GDPR Consent
+Kadence WP Kadence
+Gutenberg
+Kadence WP Blocks
+WP Engine
+toastr
+Sectigo
+Seravo
+Matomo Analytics
+Adobe Flash
+Hostinger
+MUI
+Emotion
+Vimeo
+Elementor Cloud
+MediaElement.js
+GoDaddy CoBlocks
+Tippy.js
+Sitecore
+Microsoft ASP.NET
+Azure Front Door
+Azure
+AppDynamics
+Coveo
+Cufon
+SWFObject
+jQuery CDN
+PhotoSwipe
+Sucuri
+ShareThis
+Joomla
+Helix Ultimate
+VideoJS
+Mustache
+Hammer.js
+FancyBox
+Babel
+OpenResty
+Next.js
+Bootstrap Icons
+AOS
+Shopify
+Shop Pay
+PayPal
+Apple Pay
+Windows Server
+IIS
+Klaviyo
+Google Call Conversion Tracking
+Dojo
+Cookiebot
+Umbraco
+Adobe Client Data Layer
+Hotjar
+Amazon ELB
+Duda
+MyWebsite Creator
+MyWebsite
+Wix eCommerce
+TrackJs
+UNIX
+Catch Themes Catch Box
+Preact
+Crocoblock JetElements
+Contentful
+styled-components
+Gatsby
+Recent Posts Widget With Thumbnails
+MailChimp for WordPress
+iubenda
+Ionicons
+Three.js
+Odoo
+Backdrop
+PostgreSQL
+Python
+Plausible
+Less
+AudioEye
+Drupal
+Acquia Cloud Platform
+Drupal Multisite
+Siteimprove
+Acquia Cloud Site Factory
+Glide.js
+GoDaddy Website Builder
+Google PageSpeed
+Rich Plugins Reviews
+Formidable Form
+Segment
+Smash Balloon Instagram Feed
+ProfilePress
+Cookie Information
+Cookie Information plugin
+Shopware
+Symfony
+Trusted Shops
+Webflow Ecommerce
+Clipboard.js
+Microsoft Word
+Alibaba Cloud CDN
+Netlify
+WEN Themes Signify Dark
+Varnish
+WebNode
+Twitch Player
+ProvenExpert
+Etracker
+Calendly
+Usercentrics
+Friendly Captcha
+Akamai Web Application Protector
+Responsive Lightbox & Gallery
+ShopGold
+Amazon CloudFront
+Bookly
+Ahrefs
+Constant Contact
+HubSpot CMS Hub
+HubSpot Analytics
+HubSpot
+HubSpot Cookie Policy Banner
+Google AdSense
+Unpkg
+Funding Choices
+Gravity Forms
+SweetAlert2
+The SEO Framework
+Popup Maker
+Advanced Custom Fields
+AccessiBe
+Cryout Creations Parabola
+MobX
+Ruby
+Ruby on Rails
+jQuery-pjax
+Turbo
+SoundManager
+jQuery Mobile
+Braze
+Trustpilot
+Ometria
+Monetate
+Contentsquare
+AWIN
+SWC
+parcel
+Bricks
+eWAY Payments
+prettyPhoto
+Twenty Twenty-One
+Bunny
+Elfsight
+Bunny Fonts
+Square Online
+Visa
+Mastercard
+Google Pay
+American Express
+Zotabox
+Twenty Seventeen
+SiteOrigin Widgets Bundle
+SiteOrigin Page Builder
+Google My Business
+DoubleClick Ad Exchange (AdX)
+WebFactory Maintenance
+WP Rocket
+Bold Themes
+Plesk
+Breakdance
